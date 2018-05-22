@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-core/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-core/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-core/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-core/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

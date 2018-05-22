@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wei/Documents/cold/d29n7g/example/libs/ShareSDK-Wechat-Moments-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bfde3133a50ea48791f3dfaaec53f2554b349c13">
+        <dex dex="/Users/wei/Documents/cold/d29n7g/example/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Moments-2.8.0_5e9d4c84c20a36fc5cb4dd6ee9a9e20cccb4c5bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wei/Documents/cold/d29n7g/example/libs/MobTools-2016.1222.1756.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea93b627c5c5dc8b68a00ee34ac49af67015cec4">
+        <dex dex="/Users/wei/Documents/cold/d29n7g/example/build/intermediates/transforms/dex/debug/folders/1000/2/MobTools-2016.1222.1756_3a81092f1cd1798aaaeef03b6fc36086ce1375dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wei/Documents/cold/d29n7g/latte-core/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4fb2c487a804b0172b021c8b3208b46a2f321868">
+        <dex dex="/Users/wei/Documents/cold/d29n7g/example/build/intermediates/transforms/dex/debug/folders/1000/4/classes_5a775c01013cfe4d83d1434c8978048d1ed0931b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wei/Documents/cold/d29n7g/example/libs/MobCommons-2016.1222.1756.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c70be90d61b9248814972afbb3a93b448c8cba5">
+        <dex dex="/Users/wei/Documents/cold/d29n7g/example/build/intermediates/transforms/dex/debug/folders/1000/2/MobCommons-2016.1222.1756_d8b314b9f5fb1a537aac1c2540b57874746079da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wei/Documents/cold/d29n7g/latte-ec/build/intermediates/bundles/default/libs/alipaySdk-20161222.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1bea11bfd279aa6efacf8b9cf531a79891114f2">
+        <dex dex="/Users/wei/Documents/cold/d29n7g/example/build/intermediates/transforms/dex/debug/folders/1000/8/alipaySdk-20161222_af2403c07c30396848640eab5c25640dff972c83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wei/Documents/cold/d29n7g/example/libs/ShareSDK-Core-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6e9280ac9c4af8ddf414a5a1ccaf9d113841b3f8">
+        <dex dex="/Users/wei/Documents/cold/d29n7g/example/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Core-2.8.0_16bed6f4872fff74f3788587f3c92da2335924b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wei/Documents/cold/d29n7g/latte-ec/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0509ad1c3b7f5cb4931fc1c32eea5a9b45002b40">
+        <dex dex="/Users/wei/Documents/cold/d29n7g/example/build/intermediates/transforms/dex/debug/folders/1000/4/classes_133a9c06ee041d9bb3d86d474edb5aca4c513b05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wei/Documents/cold/d29n7g/example/libs/ShareSDK-Wechat-Favorite-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f87b958a80464686534d4cd2a823f24013f3d6a6">
+        <dex dex="/Users/wei/Documents/cold/d29n7g/example/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Favorite-2.8.0_2bdc60d4080ffe9081d52bc0c24f8b978d10feee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wei/Documents/cold/d29n7g/example/libs/ShareSDK-ShortMessage-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="347953ea4f4998c1169b09fb29cb8edbefaa632c">
+        <dex dex="/Users/wei/Documents/cold/d29n7g/example/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-ShortMessage-2.8.0_887852ca59b21eaea92e85acb8d5c2417325a8e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wei/Documents/cold/d29n7g/example/libs/ShareSDK-Wechat-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5ea4582ea3c1342818cea8bd72303020a2e950f">
+        <dex dex="/Users/wei/Documents/cold/d29n7g/example/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-2.8.0_572112b474e82eeea3a95de02ac1a308e2e392f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wei/Documents/cold/d29n7g/example/libs/ShareSDK-Wechat-Core-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d080e6521d4e4a323cef0553631254721ca6ba6">
+        <dex dex="/Users/wei/Documents/cold/d29n7g/example/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Core-2.8.0_dae6d9c2256a421c563dc87d1e044d7599ff3eb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63e95d3a0c79a37628a3928c1506133a96fe0f53">
+        <dex dex="/Users/wei/Documents/cold/d29n7g/example/build/intermediates/transforms/dex/debug/folders/1000/4/classes_2cb2f5ff2e63655fa6aa4bc9a327b21bb6843fe3/classes.dex" />
+    </item>
+
+</items>

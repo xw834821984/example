@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/v_fragment_exit.xml",
+        "source": "/Users/wei/.android/build-cache/04c6e96bb51c2bfa79d1837ed09f2065e9631a7d/output/res/anim/v_fragment_exit.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/wei/.android/build-cache/1216b77f90851d3c95d7535d274d118490b2504e/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/v_fragment_enter.xml",
+        "source": "/Users/wei/.android/build-cache/04c6e96bb51c2bfa79d1837ed09f2065e9631a7d/output/res/anim/v_fragment_enter.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/wei/.android/build-cache/0f2c5381e7e032920906c3faba683b9d4514df2f/output/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/wei/.android/build-cache/1216b77f90851d3c95d7535d274d118490b2504e/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/h_fragment_pop_exit.xml",
+        "source": "/Users/wei/.android/build-cache/04c6e96bb51c2bfa79d1837ed09f2065e9631a7d/output/res/anim/h_fragment_pop_exit.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/wei/.android/build-cache/0f2c5381e7e032920906c3faba683b9d4514df2f/output/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/h_fragment_enter.xml",
+        "source": "/Users/wei/.android/build-cache/04c6e96bb51c2bfa79d1837ed09f2065e9631a7d/output/res/anim/h_fragment_enter.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/wei/.android/build-cache/1216b77f90851d3c95d7535d274d118490b2504e/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/v_fragment_pop_enter.xml",
+        "source": "/Users/wei/.android/build-cache/04c6e96bb51c2bfa79d1837ed09f2065e9631a7d/output/res/anim/v_fragment_pop_enter.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/wei/.android/build-cache/1216b77f90851d3c95d7535d274d118490b2504e/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/push_bottom_in.xml",
+        "source": "/Users/wei/Documents/cold/d29n7g/latte-core/build/intermediates/bundles/default/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/h_fragment_pop_enter.xml",
+        "source": "/Users/wei/.android/build-cache/04c6e96bb51c2bfa79d1837ed09f2065e9631a7d/output/res/anim/h_fragment_pop_enter.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/v_fragment_pop_exit.xml",
+        "source": "/Users/wei/.android/build-cache/04c6e96bb51c2bfa79d1837ed09f2065e9631a7d/output/res/anim/v_fragment_pop_exit.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/h_fragment_exit.xml",
+        "source": "/Users/wei/.android/build-cache/04c6e96bb51c2bfa79d1837ed09f2065e9631a7d/output/res/anim/h_fragment_exit.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/pop_exit_no_anim.xml",
+        "source": "/Users/wei/.android/build-cache/04c6e96bb51c2bfa79d1837ed09f2065e9631a7d/output/res/anim/pop_exit_no_anim.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/push_bottom_out.xml",
+        "source": "/Users/wei/Documents/cold/d29n7g/latte-core/build/intermediates/bundles/default/res/anim/push_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/wei/.android/build-cache/1216b77f90851d3c95d7535d274d118490b2504e/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/no_anim.xml",
+        "source": "/Users/wei/.android/build-cache/04c6e96bb51c2bfa79d1837ed09f2065e9631a7d/output/res/anim/no_anim.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/wei/.android/build-cache/add853468284f0cb9a615571db90f4d7d09e0fcc/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/wei/Documents/cold/d29n7g/latte-ui/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/wei/.android/build-cache/1216b77f90851d3c95d7535d274d118490b2504e/output/res/anim/design_bottom_sheet_slide_out.xml"
+    }
+]
