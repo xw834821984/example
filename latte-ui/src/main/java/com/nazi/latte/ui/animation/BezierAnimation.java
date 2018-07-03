@@ -7,6 +7,10 @@ import android.widget.ImageView;
 import com.nazi.latte.delegates.LatteDelegate;
 import com.nazi.latte.ui.dimen.ScreenUtils;
 
+/*
+
+加入购物车的动画util
+* */
 public final class BezierAnimation {
 
     public static void addCart(LatteDelegate delegate, View start, View end,

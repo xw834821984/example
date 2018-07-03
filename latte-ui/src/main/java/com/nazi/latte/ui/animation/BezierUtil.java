@@ -16,6 +16,9 @@ import android.widget.LinearLayout;
 import com.nazi.latte.ui.R;
 
 
+/*
+*
+* */
 public final class BezierUtil {
 
     static void startAnimationForJd(final View v, int fromXDelta,

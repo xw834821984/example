@@ -26,26 +26,36 @@ import java.util.ArrayList;
 
 /**
  * Created by nazi
+ * 仿照微信图片上传控件
  */
 
 public final class AutoPhotoLayout extends LinearLayoutCompat {
 
+    //判断第几张图片的变量
     private int mCurrentNum = 0;
+    //最大图片数量
     private final int mMaxNum;
+    //一排最大图片数量
     private final int mMaxLineNum;
+    //添加图片的按钮
     private IconTextView mIconAdd = null;
     private LayoutParams mParams = null;
     //要删除的图片ID
     private int mDeleteId = 0;
+    //选图片
     private AppCompatImageView mTargetImageVew = null;
+    //图片与图片之前的空隙
     private final int mImageMargin;
+    //用一个Delegate来操作图片
     private LatteDelegate mDelegate = null;
+    //list存储图片
     private ArrayList<View> mLineViews = null;
     private AlertDialog mTargetDialog = null;
     private static final String ICON_TEXT = "{fa-plus}";
     private final float mIconSize;
-
+    //存储所有的view
     private final ArrayList<ArrayList<View>> ALL_VIEWS = new ArrayList<>();
+    //存储一行的高度
     private final ArrayList<Integer> LINE_HEIGHTS = new ArrayList<>();
 
     //防止多次的测量和布局过程
@@ -66,6 +76,7 @@ public final class AutoPhotoLayout extends LinearLayoutCompat {
 
     public AutoPhotoLayout(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
+        //初始化属性
         final TypedArray typedArray = context.obtainStyledAttributes(attrs, R.styleable.camera_flow_layout);
         mMaxNum = typedArray.getInt(R.styleable.camera_flow_layout_max_count, 1);
         mMaxLineNum = typedArray.getInt(R.styleable.camera_flow_layout_line_count, 3);
@@ -85,6 +96,7 @@ public final class AutoPhotoLayout extends LinearLayoutCompat {
                 .apply(OPTIONS)
                 .into(mTargetImageVew);
     }
+
 
     private void createNewImageView() {
         mTargetImageVew = new AppCompatImageView(getContext());
@@ -157,6 +169,10 @@ public final class AutoPhotoLayout extends LinearLayoutCompat {
         }
     }
 
+
+    /*
+         测量方法
+    */
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
         final int sizeWith = MeasureSpec.getSize(widthMeasureSpec);
@@ -212,7 +228,7 @@ public final class AutoPhotoLayout extends LinearLayoutCompat {
         //只初始化一次
         if (!mIsOnceInitOnMeasure) {
             mParams = new LayoutParams(imageSideLen, imageSideLen);
-            mIsOnceInitOnMeasure = true;
+           // mIsOnceInitOnMeasure = true;
         }
     }
 
